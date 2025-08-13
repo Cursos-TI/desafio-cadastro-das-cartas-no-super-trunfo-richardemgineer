@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+ //aventureiro
 int main() {
     // Carta 1
     char estado1;
